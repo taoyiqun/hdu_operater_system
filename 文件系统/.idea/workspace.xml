@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="untitled13" targetName="untitled13" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e15f6f87-c1a1-4ef3-8ce3-5692ad36368f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled13" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1USbMUjFpVQAN7ghYvGpd2zDufz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled13" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled13" TARGET_NAME="untitled13" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled13" RUN_TARGET_NAME="untitled13">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e15f6f87-c1a1-4ef3-8ce3-5692ad36368f" name="Default Changelist" comment="" />
+      <created>1575352895756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575352895756</updated>
+      <workItem from="1575352897266" duration="22099000" />
+      <workItem from="1575383913576" duration="399000" />
+      <workItem from="1575384447189" duration="108000" />
+      <workItem from="1575384763309" duration="3319000" />
+      <workItem from="1575418549820" duration="7014000" />
+      <workItem from="1575457133102" duration="6133000" />
+      <workItem from="1575467983550" duration="7942000" />
+      <workItem from="1575510870031" duration="272000" />
+      <workItem from="1575511157567" duration="6977000" />
+      <workItem from="1575523368579" duration="17783000" />
+      <workItem from="1575545594864" duration="102000" />
+      <workItem from="1575644660915" duration="1140000" />
+      <workItem from="1575947665472" duration="1183000" />
+      <workItem from="1575955115517" duration="4028000" />
+      <workItem from="1576196878942" duration="1201000" />
+      <workItem from="1576253224296" duration="7104000" />
+      <workItem from="1576336978082" duration="3322000" />
+      <workItem from="1576343948272" duration="630000" />
+      <workItem from="1576386574308" duration="8947000" />
+      <workItem from="1576455399393" duration="14000" />
+      <workItem from="1576498609895" duration="1158000" />
+      <workItem from="1576589318337" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="46" key="#xdebugger.evaluate" timestamp="1575462397798">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="520" y="46" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1575462397798" />
+    <state width="551" height="444" key="DebuggerActiveHint" timestamp="1575512484516">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="551" height="444" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1575512484516" />
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1576455411663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576455411663" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1576410485961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576410485961" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1576410485961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576410485961" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1576410485960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576410485960" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1576410485961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576410485961" />
+    <state width="1237" height="343" key="GridCell.Tab.1.bottom" timestamp="1575545210905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575545210905" />
+    <state width="1237" height="343" key="GridCell.Tab.1.center" timestamp="1575545210905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1575545210905" />
+    <state width="1237" height="343" key="GridCell.Tab.1.left" timestamp="1575545210905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1575545210905" />
+    <state width="1237" height="343" key="GridCell.Tab.1.right" timestamp="1575545210905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1575545210905" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1576386681011">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576386681011" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1575512265077">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1575512265077" />
+    <state x="396" y="187" key="cloudConfig.SelfSettingsDialog" timestamp="1575539715510">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="187" key="cloudConfig.SelfSettingsDialog/0.0.1280.680@0.0.1280.680" timestamp="1575539715510" />
+    <state x="337" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1576589319605">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576589319605" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>1018</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>584</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="openfile_list[1]" language="ObjectiveC" />
+        <watch expression="(fcb *)(myvhard + BLOCK_SIZE * 6)" language="ObjectiveC" />
+        <watch expression="myvhard+805" language="ObjectiveC" />
+        <watch expression="(fat *)(myvhard +BLOCK_SIZE)+9" language="ObjectiveC" />
+        <watch expression="(fat*)(myvhard + BLOCK_SIZE)+10" language="ObjectiveC" />
+        <watch expression="(fat*)(myvhard + BLOCK_SIZE)+11" language="ObjectiveC" />
+        <watch expression="stdin" language="ObjectiveC" />
+        <watch expression="openfile_list" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
